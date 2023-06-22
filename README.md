@@ -29,4 +29,12 @@ https://work.caltech.edu/homework/hw4.pdf
 
 - [Week 7&8](/HW4/), VC Dimension and Bias-Variance Trade-off, an important portion is the Learning Curve. I have included another solution from others with good math answers.
 
+## Homework 5
+
+https://work.caltech.edu/homework/hw4.pdf
+
+- [Week 9&10](/HW5/), Logistic Regression and a brief introduction of neural network. Also gradient desent method. In this assigment a Logistic model is built.
+- Here is a good learning note: https://chih-sheng-huang821.medium.com/機器學習-基礎數學-二-梯度下降法-gradient-descent-406e1fd001f .
+
+
 If you spot a mistake, I'll be happy to hear about it! Thanks!
