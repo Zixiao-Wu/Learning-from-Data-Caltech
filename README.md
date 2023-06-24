@@ -31,10 +31,18 @@ https://work.caltech.edu/homework/hw4.pdf
 
 ## Homework 5
 
-https://work.caltech.edu/homework/hw4.pdf
+https://work.caltech.edu/homework/hw5.pdf
 
 - [Week 9&10](/HW5/), Logistic Regression and a brief introduction of neural network. Also gradient desent method. In this assigment a Logistic model is built.
 - Here is a good learning note: https://chih-sheng-huang821.medium.com/機器學習-基礎數學-二-梯度下降法-gradient-descent-406e1fd001f .
+
+## Homework 6
+
+https://work.caltech.edu/homework/hw6.pdf
+
+- [Week 11&12](/HW6/), this week focus on reason of overfitting and regularization methods, weight decay.
+
+
 
 
 If you spot a mistake, I'll be happy to hear about it! Thanks!
