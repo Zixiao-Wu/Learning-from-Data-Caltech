@@ -42,7 +42,11 @@ https://work.caltech.edu/homework/hw6.pdf
 
 - [Week 11&12](/HW6/), this week focus on reason of overfitting and regularization methods, weight decay.
 
+## Homework 7
 
+https://work.caltech.edu/homework/hw6.pdf
+
+- [Week 13&14](/HW7/), Validation methods and Support Vector Machine, important!
 
 
 If you spot a mistake, I'll be happy to hear about it! Thanks!
