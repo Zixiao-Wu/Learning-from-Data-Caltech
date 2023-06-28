@@ -44,7 +44,7 @@ https://work.caltech.edu/homework/hw6.pdf
 
 ## Homework 7
 
-https://work.caltech.edu/homework/hw6.pdf
+https://work.caltech.edu/homework/hw7.pdf
 
 - [Week 13&14](/HW7/), Validation methods and Support Vector Machine, important!
 
