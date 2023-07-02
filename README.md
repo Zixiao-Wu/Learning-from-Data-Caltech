@@ -48,5 +48,12 @@ https://work.caltech.edu/homework/hw7.pdf
 
 - [Week 13&14](/HW7/), Validation methods and Support Vector Machine, important!
 
+## Homework 8
+
+https://work.caltech.edu/homework/hw8.pdf
+
+- [Week 15&16](/HW8/), Soft-Margin Support Vector Machine and Kernel tricks, important! And RBF, which is a effective tool.
+- Here is a note includes the nature of Support Vector Machine: https://blog.csdn.net/cyril_ki/article/details/107601621
+
 
 If you spot a mistake, I'll be happy to hear about it! Thanks!
