@@ -55,5 +55,10 @@ https://work.caltech.edu/homework/hw8.pdf
 - [Week 15&16](/HW8/), Soft-Margin Support Vector Machine and Kernel tricks, important! And RBF, which is a effective tool.
 - Here is a note includes the nature of Support Vector Machine: https://blog.csdn.net/cyril_ki/article/details/107601621
 
+## Final
+
+https://work.caltech.edu/homework/final.pdf
+
+- [Week 17&18](/FInal/), Complete the final assignment, built RBF model, both in regular form (Lloyd + pseudo-inverse) and in kernel form (using the RBF kernel in hardmargin SVM. Finish this course!
 
 If you spot a mistake, I'll be happy to hear about it! Thanks!
